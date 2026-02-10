@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace rohitthak with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: rohitthak-azure-ttt
-  AZURE_WEBAPP_NAME: rohitthak-ttt-app
+  DOCKER_IMAGE_NAME: rohittha-azure-ttt
+  AZURE_WEBAPP_NAME: rohittha-ttt-app
   ###############################################
 
 jobs:
